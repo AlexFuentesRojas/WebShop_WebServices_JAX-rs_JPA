@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/usvn/svn/red/!svn/ver/273/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/268/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/UserService.java
+END
+ECommerceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usvn/svn/red/!svn/ver/273/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/ECommerceService.java
+END
+ProductRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usvn/svn/red/!svn/ver/271/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/ProductRepository.java
+END
+ProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usvn/svn/red/!svn/ver/271/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/ProductService.java
+END
+OrderlineRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usvn/svn/red/!svn/ver/268/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/OrderlineRepository.java
+END
+OrderlineService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usvn/svn/red/!svn/ver/268/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/OrderlineService.java
+END
+OrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/usvn/svn/red/!svn/ver/273/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/OrderRepository.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/usvn/svn/red/!svn/ver/273/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/OrderService.java
+END
+UserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usvn/svn/red/!svn/ver/268/trunk/GRed-Jpa%20v.2/src/main/java/se/groupRed/maven/jpa/data/UserRepository.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/service
+END
+OrderService.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/service/OrderService.class
+END
+UserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/service/UserService.class
+END
+ProductService.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/service/ProductService.class
+END

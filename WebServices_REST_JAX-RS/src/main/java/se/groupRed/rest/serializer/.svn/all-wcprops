@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/usvn/svn/red/!svn/ver/272/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer
+END
+ProductsXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/ProductsXOMConverter.java
+END
+UserJSONConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/UserJSONConverter.java
+END
+ProductJSONConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/ProductJSONConverter.java
+END
+OrderXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usvn/svn/red/!svn/ver/272/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/OrderXOMConverter.java
+END
+OrdersXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usvn/svn/red/!svn/ver/272/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/OrdersXOMConverter.java
+END
+UserXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/UserXOMConverter.java
+END
+ProductXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/ProductXOMConverter.java
+END
+OrderJSONConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/OrderJSONConverter.java
+END
+UsersXOMConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/serializer/UsersXOMConverter.java
+END

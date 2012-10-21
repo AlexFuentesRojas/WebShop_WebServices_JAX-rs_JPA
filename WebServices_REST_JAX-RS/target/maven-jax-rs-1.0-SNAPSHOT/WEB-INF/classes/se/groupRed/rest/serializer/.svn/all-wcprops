@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer
+END
+ProductXOMConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/ProductXOMConverter.class
+END
+OrderJSONConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/OrderJSONConverter.class
+END
+UserJSONConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/UserJSONConverter.class
+END
+ProductJSONConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/ProductJSONConverter.class
+END
+OrderXOMConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/OrderXOMConverter.class
+END
+UserXOMConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/target/maven-jax-rs-1.0-SNAPSHOT/WEB-INF/classes/se/groupRed/rest/serializer/UserXOMConverter.class
+END

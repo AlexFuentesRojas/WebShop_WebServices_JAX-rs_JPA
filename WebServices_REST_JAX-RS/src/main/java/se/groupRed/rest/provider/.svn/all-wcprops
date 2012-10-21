@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider
+END
+OrderProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/OrderProvider.java
+END
+OrdersProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/OrdersProvider.java
+END
+UserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/UserProvider.java
+END
+ProductProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/ProductProvider.java
+END
+UsersProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/UsersProvider.java
+END
+ProductsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/usvn/svn/red/!svn/ver/269/trunk/GRed-Jax%20v.2/src/main/java/se/groupRed/rest/provider/ProductsProvider.java
+END
